@@ -1,0 +1,13 @@
+a {text-decoration: none}
+h3 {font-weight: normal}
+p {font-size: 14pt}
+.textcenter {text-align: center}
+.textleft {text-align: left}
+.textright {text-align: right}
+.textitalic {font-style: italic}
+.importance {color: red}
+.notice {color: blue}
+.markup {font-weight: bold;text-decoration: underline}
+.footer {text-align: left;font-style: italic}
+.navback {text-align: right;font-size: 12pt}
+.w3cvalidate {text-align: center}
